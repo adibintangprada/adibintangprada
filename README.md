@@ -34,7 +34,7 @@
 ✔ Ask me about anything, I am happy to help<br><br><br><br>
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools***
+<img src="https://media.giphy.com/media/a2AIeCFeYFUTMj8scI/giphy.gif" width="30px">&nbsp;***Languages & Tools***
 <p align="left">
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
