@@ -72,3 +72,4 @@ In case you get lost while browsing my repository, you can quick-access in the s
 * [Indonesia Economic Crisis Prediction Using Random Forest](https://github.com/adibintangprada/Indonesia_Economic_Crisis_Prediction_Using_Random_Forest)
 * [First World and Third World Country Clustering Using Hierarchical Clustering](https://github.com/adibintangprada/Country_Clustering_Using_Hierarchical_Clustering)
 * [Anime Recommendation with Machine Learning](https://github.com/adibintangprada/Anime_Recommendation_with_Machine_Learning)
+* [American University Clustering Using Hierarchical Clustering](https://github.com/adibintangprada/American_University_Clustering)
