@@ -37,7 +37,7 @@
 <img src="https://media.giphy.com/media/a2AIeCFeYFUTMj8scI/giphy.gif" width="30px">&nbsp;***Languages & Tools***
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code> 
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"> </code>
