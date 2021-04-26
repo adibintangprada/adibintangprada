@@ -70,3 +70,4 @@ In case you get lost while browsing my repository, you can quick-access in the s
 <img src="https://media.giphy.com/media/f7Yl50km2i3Mo3oSe6/giphy.gif" width="30px">&nbsp; **Machine Learning**
 * [Data Preprocessing](https://github.com/adibintangprada/Data_Preprocessing)
 * [Indonesia Economic Crisis Prediction Using Random Forest](https://github.com/adibintangprada/Indonesia_Economic_Crisis_Prediction_Using_Random_Forest)
+* [First World and Third World Country Clustering Using Hierarchical Clustering](https://github.com/adibintangprada/Country_Clustering_Using_Hierarchical_Clustering)
