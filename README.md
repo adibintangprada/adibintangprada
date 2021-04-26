@@ -49,3 +49,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adibintangprada&show_icons=true&locale=en" alt="adibintangprada" width="410" /></p>
 
 <hr>
+
+### In case you get lost while browsing my repository, you can quick-access in the summary below. Happy Coding!!!
+<img src="https://media.giphy.com/media/LYBMuRwH3JkhdmLbGE/giphy.gif" width="25px">&nbsp; Python Exercises
+* [Mini Python Exercise](https://github.com/adibintangprada/Mini_Python_Exercise)
+* [Beginner Python Exercise](https://github.com/adibintangprada/Beginner_Python_Exercise)
+* [Intermediate Python Exercise](https://github.com/adibintangprada/Intermediate_Python_Exercise)
+* [Pandas Exercise Selecting Filtering Sorting](https://github.com/adibintangprada/Pandas_Exercise_Selecting_Filtering_Sorting)
+* [Pandas Exercise Selecting Filtering Sorting 2](https://github.com/adibintangprada/Pandas_Exercise_Selecting_Filtering_Sorting_2)
+
+<img src="https://media.giphy.com/media/Q5vKMeDtLzYvFxQhTH/giphy.gif" width="25px">&nbsp; Exploratory Data Analysis
+* [Netflix Insights Data Visualization](https://github.com/adibintangprada/Netflix_Insights_Data_Visualization)
+
+<img src="https://media.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif" width="25px">&nbsp; Statistics for Data Science
+* [Basic Statistics for Data Science](https://github.com/adibintangprada/Basic_Statistics_for_Data_Science)
+* [Descriptive Statistics Iris](https://github.com/adibintangprada/Desciptive_Statistics_Iris)
+
+<img src="https://media.giphy.com/media/f7Yl50km2i3Mo3oSe6/giphy.gif" width="25px">&nbsp; Machine Learning
+* [Data Preprocessing](https://github.com/adibintangprada/Data_Preprocessing)
+* [Indonesia Economic Crisis Prediction Using Random Forest](https://github.com/adibintangprada/Indonesia_Economic_Crisis_Prediction_Using_Random_Forest)
