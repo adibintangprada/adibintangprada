@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/adibintangpradana/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/adibintangpradana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" height="30" width="40" /></a>
+<a href="https://public.tableau.com/profile/adi.bintang.pradana#!/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adibintangprada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@adibintangprada" height="30" width="40" /></a>
 <a href = "mailto: adibintangprada@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/adibintangprada/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Adi Bintang Pradana" height="30" width="40" /></a>
