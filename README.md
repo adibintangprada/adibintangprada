@@ -66,11 +66,19 @@ In case you get lost while browsing my repository, you can quick-access in the s
 
 <img src="https://media.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif" width="30px">&nbsp; **Statistics for Data Science**
 * [Basic Statistics for Data Science](https://github.com/adibintangprada/Basic_Statistics_for_Data_Science)
+* [Descriptive Statistics](https://github.com/adibintangprada/Descriptive_Statistics)
 * [Descriptive Statistics Iris](https://github.com/adibintangprada/Desciptive_Statistics_Iris)
+* [Web Design Engagement Measurement Using AB Testing](https://github.com/adibintangprada/AB_Testing)
+* [Two Sample T Test](https://github.com/adibintangprada/TwoSampleTTest)
 
 <img src="https://media.giphy.com/media/f7Yl50km2i3Mo3oSe6/giphy.gif" width="30px">&nbsp; **Machine Learning**
 * [Data Preprocessing](https://github.com/adibintangprada/Data_Preprocessing)
+* [Financial Stability Index Prediction Using Regression](https://github.com/adibintangprada/Financial_Stability_Index_Regression)
+* [Churn Customer Prediction (1) Using Logistic Regression and KNN](https://github.com/adibintangprada/Churn_Customer_Prediction_Using_LogReg_KNN)
+* [Churn Customer Prediction (2) Using SVM, Decision Tree, and Random Forest](https://github.com/adibintangprada/Churn_Customer_Prediction_Using_SVM_DecisionTree_RandomForest)
 * [Indonesia Economic Crisis Prediction Using Random Forest](https://github.com/adibintangprada/Indonesia_Economic_Crisis_Prediction_Using_Random_Forest)
+* [Mall Customer Clustering with Machine Learning](https://github.com/adibintangprada/Mall_Customer_Clustering)
 * [First World and Third World Country Clustering Using Hierarchical Clustering](https://github.com/adibintangprada/Country_Clustering_Using_Hierarchical_Clustering)
 * [Anime Recommendation with Machine Learning](https://github.com/adibintangprada/Anime_Recommendation_with_Machine_Learning)
+* [Movie Recommendation with Collaborative Filtering](https://github.com/adibintangprada/Movie_Recommendation)
 * [American University Clustering Using Hierarchical Clustering](https://github.com/adibintangprada/American_University_Clustering)
