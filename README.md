@@ -85,5 +85,5 @@ In case you get lost while browsing my repository, you can quick-access in the s
 * [Stock and Crypto Predictions Using <b>Machine Learning</b>](https://github.com/adibintangprada/Stock_and_Crypto_Predictions_Using_MachineLearning)
 * [Tokopedia Review Sentiment Analysis Using <b>NLP</b>](https://github.com/adibintangprada/Tokopedia_Review_Sentiment_Analysis)
 * [Rock Paper Scissors Image Classification Using <b>Neural Network (Tensorflow)</b>](https://github.com/adibintangprada/RockPaperScissors_Image_Classification)
-* [BBCA Stock Predictions Using <b>Neural Networks (Time Series)</b>](https://github.com/adibintangprada/BBCA_Stock_Predictions)
+* [BBCA Stock Predictions Using <b>Neural Network (Time Series)</b>](https://github.com/adibintangprada/BBCA_Stock_Predictions)
 * [Scenery Image Classification Using <b>Neural Network (Tensorflow)</b>](https://github.com/adibintangprada/Scenery_Image_Classification)
