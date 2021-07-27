@@ -61,7 +61,7 @@ In case you get lost while browsing my repository, you can quick-access in the s
 * [Pandas Exercise Selecting Filtering Sorting](https://github.com/adibintangprada/Pandas_Exercise_Selecting_Filtering_Sorting)
 * [Pandas Exercise Selecting Filtering Sorting 2](https://github.com/adibintangprada/Pandas_Exercise_Selecting_Filtering_Sorting_2)
 
-<img src="https://media.giphy.com/media/Q5vKMeDtLzYvFxQhTH/giphy.gif" width="30px">&nbsp; **Exploratory Data Analysis**
+<img src="https://media.giphy.com/media/Q5vKMeDtLzYvFxQhTH/giphy.gif" width="30px">&nbsp; **Data Visualization**
 * [Netflix Insights Data Visualization](https://github.com/adibintangprada/Netflix_Insights_Data_Visualization)
 
 <img src="https://media.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif" width="30px">&nbsp; **Statistics for Data Science**
